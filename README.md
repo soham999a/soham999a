@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soham Das</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://www.bing.com/images/search?view=detailV2&ccid=lFtwu1A%2b&id=51EE451C5382AEA508D72C6EDFCE6ACBF3B3930F&thid=OIP.lFtwu1A-RI-TZL0g9zoC-wHaER&mediaurl=https%3a%2f%2fpresent.readthedocs.io%2fen%2flatest%2f_images%2fwelcome-to-coding.gif&exph=532&expw=921&q=a+coding+gif+https+link&simid=608004942500345781&FORM=IRPRST&ck=6A146187FD7BF535FAEDC4EA1D73896A&selectedIndex=14" alt="A person typing on a computer keyboard">
+
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soham999a&label=Profile%20views&color=0e75b6&style=flat" alt="soham999a" /> </p>
