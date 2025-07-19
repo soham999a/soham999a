@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soham999a&label=Profile%20views&color=0e75b6&style=flat" alt="soham999a" /> </p>
 
-- 🌱 I’m currently learning **Mern stack development**
+- 🌱 I’m currently learning **SLM**
 
 - 👯 I’m looking to collaborate on **some project**
 
